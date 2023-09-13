@@ -1,0 +1,2 @@
+# cintia
+https://vscode.dev/
